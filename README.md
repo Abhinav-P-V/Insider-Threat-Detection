@@ -44,7 +44,7 @@
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Abhinav-P-V/Insider-Threat-Detection.git
 cd insider-threat-detection
 
 # Start all services (includes database initialization)
